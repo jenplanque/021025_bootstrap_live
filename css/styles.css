@@ -1,0 +1,16 @@
+body {
+	font-family: monospace;
+	background-color: black;
+	color: white;
+}
+
+nav {
+	background-color: #444;
+	/* padding: 10px; */
+}
+
+nav a:hover,
+nav .dropdown-item:hover {
+	text-transform: uppercase;
+	background-color: red;
+}
